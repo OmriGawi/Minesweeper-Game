@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/OmriGawi/Minesweeper-Game">
-    <img src="Minesweeper-Game/MinesweeperLogo.png" alt="Logo" width="80" height="80">
+    <img src="MinesweeperLogo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Minesweeper Game</h3>
