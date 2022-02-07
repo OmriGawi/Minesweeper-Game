@@ -67,7 +67,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#upcomming-features">Upcomming features</a></li>
+    <li><a href="#Upcomming-features">Upcomming features</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -147,7 +147,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Upcoming features
+## Upcoming-features
 
 
 * Add timer.
