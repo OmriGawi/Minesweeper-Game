@@ -147,8 +147,9 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Upcoming-features
 
+<!-- UPCOMMING FEATURES -->
+## Upcoming-features
 
 * Add timer.
 * Add high score tracking.
